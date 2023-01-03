@@ -7,6 +7,7 @@ class sum{
         int c = 4; 
         int d=9;
         int z = 12;
+        int y = 6;
         System.out.println(a+b);
     }
 }
